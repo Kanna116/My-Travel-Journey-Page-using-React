@@ -27,7 +27,7 @@ I had deployed this project  using Vercel.com
 
 Using this link to navigate to the project
 
-[Project Link]()
+[Project Link](https://my-travel-journey-page.vercel.app/)
 
 
 ## Lessons Learned
@@ -55,6 +55,7 @@ usage of map to make Components
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murali-kanna/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanna116)
 [![codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Klax)
+
 
 
 ## 🛠 Skills
